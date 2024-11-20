@@ -1,0 +1,10 @@
+{
+    "fasilitas":[
+        {"id":1,"category":"Aula Gedung Gubernur","jumlah_kegiatan":87,"jumlah_peserta":11695},
+        {"id":2,"category":"Ruang Rapat Rumah Bergonjong","jumlah_kegiatan":160,"jumlah_peserta":6549},
+        {"id":3,"category":"Istana Bung Hatta Bukittinggi","jumlah_kegiatan":137,"jumlah_peserta":785},
+        {"id":4,"category":"Mess Bukit Lampu","jumlah_kegiatan":11,"jumlah_peserta":11695},
+        {"id":5,"category":"Auditorium Gubernuran","jumlah_kegiatan":181,"jumlah_peserta":35800},
+        {"id":6,"category":"Ruang Rapat Istana Gubernuran","jumlah_kegiatan":115,"jumlah_peserta":4549}
+    ]
+}
